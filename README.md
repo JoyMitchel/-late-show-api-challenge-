@@ -235,7 +235,7 @@ Authorization: Bearer <your_jwt_token>
 - ⏳ **GitHub repo pushed and shared** - Ready for submission
 
 ## 🔗 GitHub Repository
-**Repository:** https://github.com/your-username/late-show-api-challenge
+**Repository:**https://github.com/JoyMitchel/-late-show-api-challenge-
 
 ## 🚀 Quick Start
 ```bash
